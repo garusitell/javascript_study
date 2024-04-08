@@ -1,6 +1,6 @@
 # javascript 스터디
 자바스크립트 공부 스터디 입니다.
-참여인원 : 이선빈(20151566) git_profile:garuistell
+
 
 ### 책 내용
 Javascript The Definitive Guide  
